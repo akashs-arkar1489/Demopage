@@ -34,8 +34,8 @@ a:hover{
     }
 }
 .seg-1{
-    margin: 2.5rem 0 0 0;
     background-color: #E9EBEE;
+    padding-top: 2.5rem;
     padding-bottom: 7rem;
     border-radius: 0 0 0 50px;
     
