@@ -224,3 +224,8 @@ a:hover{
     align-items: center;
     margin: 0 1.5rem 0 1.5rem;
 }
+
+.badge-secondary {
+    color:#5951FF;
+    background-color: #EEEDF7;
+}
