@@ -1,6 +1,20 @@
 body{
     margin: 0;
 }
+
+body::-webkit-scrollbar {
+    width: 10px;           
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0);
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #5951FF;   
+    border-radius: 5px;
+    border: 3px solid rgb(255, 255, 255); 
+  }
 a{
     text-decoration: none;
 }
