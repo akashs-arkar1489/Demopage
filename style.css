@@ -111,6 +111,24 @@ footer{
     margin-top: 7rem;
 }
 
+.f-m-c{
+    display: flex;
+    padding: 10px;
+    flex-wrap: nowrap;
+}
+
+.f-c{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+@media(max-width:576px){
+    .f-m-c{
+    display: flex;
+    flex-wrap: wrap;
+    }
+}
+
 @media (max-width:576px){
     .donut-hole{
         max-width: 20rem;
